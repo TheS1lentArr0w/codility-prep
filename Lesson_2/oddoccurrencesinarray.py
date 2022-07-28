@@ -1,5 +1,6 @@
 #########
 ## This solution timed out on performance tests with bigger input arrays.
+## Each elem in set loops through the entire input array
 #########
 
 # def solution(A):
